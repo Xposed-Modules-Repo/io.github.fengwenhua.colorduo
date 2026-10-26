@@ -16,7 +16,7 @@
 
 **升级必读：低于 1.1.0 的旧版本（不包含 1.1.0）必须先卸载，再安装新版。卸载会清除配置，请提前记录布局；安装后在 LSPosed 重新启用 ColorDuo、勾选系统界面并重载。**
 
-**1.1.0 新签名正式版可直接覆盖升级至 1.1.1，配置保留，无需卸载。** 旧测试签名的调试包因签名不同仍需卸载重装。
+**1.1.0 及以上新签名正式版可直接覆盖升级至 1.1.2，配置保留，无需卸载。** 旧测试签名的调试包因签名不同仍需卸载重装。
 
 1. 从[模块仓 Releases](https://github.com/Xposed-Modules-Repo/io.github.fengwenhua.colorduo/releases) 或
    [ColorDuo Releases](https://github.com/fengwenhua/ColorDuo/releases) 下载 APK。
